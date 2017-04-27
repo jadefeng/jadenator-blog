@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Jadenator"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Jade Feng"
+description              : "Product Manager."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jade Feng"
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : "G'day there! I write about books, videos, coffee, and food."
+  location         : "San Francisco, California"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
-  foursquare       :
-  github           :
+  facebook         : "jadefeng"
+  foursquare       : "jadefeng"
+  github           : "jadefeng"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "lajadenator"
   lastfm           :
-  linkedin         :
+  linkedin         : "jadefeng"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "fengjade"
   vine             :
   weibo            :
   xing             :
