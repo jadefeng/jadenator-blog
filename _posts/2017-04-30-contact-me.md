@@ -10,3 +10,6 @@ tags:
 
 # Want to say hi?
 
+Email me [here](mailto:hello@jadenator.com?subject="G'day there").
+
+(Contact form coming soon!)
