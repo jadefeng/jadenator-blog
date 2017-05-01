@@ -13,7 +13,10 @@ To create a space to share thoughts on:
 * Growth and "growth hacking"
 * Side projects and personal experiements
 
-Credits: 
+## Credits
+
+Many thanks to:
+
 * [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 * [Jekyll Now](https://github.com/barryclark/jekyll-now)
 
